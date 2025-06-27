@@ -37,3 +37,15 @@ All results and figures were used to support the paper:
 📄 **"Simulation of the Deutsch-Jozsa and Grover Algorithms using Python and QuTiP"**
 
 The paper is available in the `docs/` folder as a `.docx` file:
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/YourUsername/QuantumAlgorithmSimulations/blob/main/LICENSE)  file for details.
+
+### What the MIT License Allows:
+- ✅ Commercial use  
+- ✅ Modification  
+- ✅ Distribution  
+- ✅ Private use  
+
+The license requires that:
+> The original copyright notice and permission notice shall be included in all copies or substantial portions of the software.
