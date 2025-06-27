@@ -1,3 +1,12 @@
+![deutsch_jozsa_frame_149](https://github.com/user-attachments/assets/e426564b-7702-469b-8a71-70c770caae75)
+![deutsch_jozsa_frame_0](https://github.com/user-attachments/assets/7c964185-4718-4a49-b0a1-eb2a255d7e3f)
+
+
+https://github.com/user-attachments/assets/d92e3510-67d1-4191-a4e3-691f29c3a2a1
+
+![deutsch_jozsa_frame_100](https://github.com/user-attachments/assets/485b746b-d0bb-403b-a7d3-174efeed51f2)
+![deutsch_jozsa_frame_76](https://github.com/user-attachments/assets/d2767c24-02bf-4b7b-9c99-d3a5ba10fe9a)
+![deutsch_jozsa_frame_49](https://github.com/user-attachments/assets/efb2f147-8dd1-461f-9758-0b3ee886e84d)
 # Quantum Algorithm Simulation: Deutsch-Jozsa & Grover Search  
 *A Python-based simulation of quantum state evolution using QuTiP and Matplotlib*
 
